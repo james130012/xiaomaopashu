@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext, messagebox, simpledialog, Toplevel, Entry, Button, Label, PanedWindow, Frame
 import re
 
-# --- 行号显示类 (LineNumbers Class) --   -
+# --- 行号显示类 (LineNumbers Class) --     -  
 class LineNumbers(tk.Canvas):
     def __init__(self, master, text_widget, **kwargs):
         self.font = kwargs.pop("font", ("TkDefaultFont", 10))
