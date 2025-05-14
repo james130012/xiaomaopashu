@@ -17,3 +17,5 @@ search部分《》里的内容是要被替换的原文完整代码而且一个�
 you need to modify <file>, use write_to_file. Avoid replace_in_file.严格按照下面的要求修改INDEX.HTML文件。
 
 只用 replace_in_file，把 src/index.html的
+
+git submodule update --init --recursive 小仓库更新命令 要到那个文件夹下
