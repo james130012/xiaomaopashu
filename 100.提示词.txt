@@ -18,4 +18,4 @@ you need to modify <file>, use write_to_file. Avoid replace_in_file.严格按照
 
 只用 replace_in_file，把 src/index.html的
 
-git submodule update --init --recursive 小仓库更新命令 要到那个文件夹下
+git submodule update --init --recursive 小仓库更新命令 要到那个文件夹下(在分支图标处更新就可以)
